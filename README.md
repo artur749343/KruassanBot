@@ -3,6 +3,8 @@ My discord bot
 Bot can read and edit file and interpretate files on my programming language(discosculk)
 Bot Version alpha 0.1.0
 
+Libraries: asyncio, time, copy, json, os, discord
+
 Questions:
 1. Why bot on russian language? and why soo little functions on bot?
 my bot is not complete :(
