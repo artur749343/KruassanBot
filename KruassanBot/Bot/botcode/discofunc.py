@@ -26,8 +26,7 @@ class View(discord.ui.View):
 
 dir_fun={"print": lambda x, y: x.send(str(y)),
          "button": lambda x, name, color, send: x.send(view=View(str(name), color, str(send))),
-         "clear": lambda x, n: x.purge(limit=n),
-         "newfunc": lambda x, a, b: x.send(str(a+b))
+         "clear": lambda x, n: x.purge(limit=n)
 }
 
 
