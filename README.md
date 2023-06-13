@@ -2,7 +2,11 @@
 My discord bot
 Bot can read and edit file and interpretate files on my programming language(discosculk)
 How to use:
-1. How create new function?
+1. How start bot?
+"botinfo.json" here write token and id your server discord
+
+
+3. How create new function?
 path to file: Bot\botcode\discofunc.py 
 
 ![image](https://github.com/artur749343/KruassanBot/assets/93882299/cd1ba1a9-fbc3-44d4-a842-005e17deb308)
@@ -18,9 +22,9 @@ start bot
 
 ![image](https://github.com/artur749343/KruassanBot/assets/93882299/7ce0a57e-77f7-4ed8-889e-377badd87a14)
 
-2. what is "this"?
+3. what is "this"?
 "this" get guild, channel or categore where start code, this.user get user who starting code. parent get parent of channel, categore or user.
-3. how working loops?
+4. how working loops?
 language have "while" loop function
 
 ![image](https://github.com/artur749343/KruassanBot/assets/93882299/b3866f6d-b031-439a-9be8-3e7b6100c9a4)
