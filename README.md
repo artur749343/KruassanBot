@@ -5,6 +5,7 @@ Bot Version alpha 0.1.0
 
 Questions:
 1. Why bot on russian language? and why soo little functions on bot?
+
 my bot is not complete :(
 
 How to use:
