@@ -1,6 +1,12 @@
 # KruassanBot
 My discord bot
 Bot can read and edit file and interpretate files on my programming language(discosculk)
+Bot Version alpha 0.1.0
+
+Questions:
+1. Why my bot on russian language? and why soo little functions on bot?
+my bot is not complete :(
+
 How to use:
 1. How start bot?
 "botinfo.json" here write token and id your server discord
