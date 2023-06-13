@@ -24,7 +24,8 @@ here write new function
 restart bot and write new code
 
 ![image](https://github.com/artur749343/KruassanBot/assets/93882299/df19e691-b572-4578-8e67-d58ef0b21d61)
-start bot
+
+start code
 
 ![image](https://github.com/artur749343/KruassanBot/assets/93882299/7ce0a57e-77f7-4ed8-889e-377badd87a14)
 
